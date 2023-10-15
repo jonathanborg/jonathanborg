@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Jonathan
 - 💬 Currently an MSc Computer Science student
+- 🗒  Blog Posts During the Study:
+  - <a href="https://jonathanborg.github.io/CS4240/" target="_blank">Blog Post 1</a>: Deep Learning Project 
+  - <a href="https://jonathanborg.github.io/CS4245/" target="_blank">Blog Post 2</a>: Computer Vision by Deep Learning 
 - 🔭 Currently working on my thesis 
 - 📫 You can reach me at:
 <p>
